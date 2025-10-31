@@ -2,6 +2,7 @@
   "expo": {
     "name": "demoApp",
     "slug": "demoApp",
+    "entryPoint": "expo-router/AppEntry.js",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -16,7 +17,12 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_BACKGROUND_LOCATION"
+      ]
     },
     "web": {
       "bundler": "metro",
@@ -32,6 +38,18 @@
           "imageWidth": 200,
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
+        }
+      ],
+      "expo-font",
+      "expo-asset",
+      "expo-web-browser",
+      "expo-secure-store",
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "This app needs background location access to provide continuous emergency monitoring and alerts even when the app is not active.",
+          "locationAlwaysPermission": "This app needs background location access to provide continuous emergency monitoring and alerts even when the app is not active.",
+          "locationWhenInUsePermission": "This app needs location access to provide emergency alerts, find nearby shelters, and help you stay safe during disasters."
         }
       ]
     ],

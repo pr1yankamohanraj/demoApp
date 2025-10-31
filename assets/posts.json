@@ -1,0 +1,177 @@
+[
+    {
+      "id": "welcome",
+      "author": "Community Team",
+      "region": "All Regions",
+      "created_at": "2025-06-19T08:00:00Z",
+      "title": "Welcome to Community Pulse!",
+      "description": "Get real-time updates, safety tips, and official resources here. Use filters to explore by region or emergency type.",
+      "verified": true,
+      "community": "General"
+    },
+    {
+      "id": "earthquake-resources",
+      "author": "Community Team",
+      "region": "All Regions",
+      "created_at": "2025-06-18T08:30:00Z",
+      "title": "Earthquake Resources",
+      "description": "Stay safe with these verified earthquake preparedness and recovery resources.",
+      "verified": true,
+      "resourceLinks": [
+        {
+          "label": "Red Cross Earthquake Guide",
+          "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/earthquake.html"
+        },
+        {
+          "label": "USGS Earthquake Hazards",
+          "url": "https://earthquake.usgs.gov/"
+        }
+      ],
+      "community": "Earthquakes"
+    },
+    {
+      "id": "hurricane-resources",
+      "author": "Community Team",
+      "region": "All Regions",
+      "created_at": "2025-06-17T10:00:00Z",
+      "title": "Hurricane Resources",
+      "description": "Find hurricane shelter info, safety tips, and disaster assistance below.",
+      "verified": true,
+      "resourceLinks": [
+        {
+          "label": "FEMA Hurricane Safety",
+          "url": "https://www.ready.gov/hurricanes"
+        },
+        {
+          "label": "Red Cross Shelter Map",
+          "url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html"
+        }
+      ],
+      "community": "Hurricanes & Tornadoes"
+    },
+    {
+      "id": "wildfire-resources",
+      "author": "Community Team",
+      "region": "All Regions",
+      "created_at": "2025-06-16T15:00:00Z",
+      "title": "Wildfire Resources",
+      "description": "Use these tools to track wildfires and stay protected during air quality emergencies.",
+      "verified": true,
+      "resourceLinks": [
+        {
+          "label": "Cal Fire Wildfire Incidents",
+          "url": "https://www.fire.ca.gov/incidents/"
+        },
+        {
+          "label": "AirNow Smoke Map",
+          "url": "https://fire.airnow.gov/"
+        }
+      ],
+      "community": "Wildfires"
+    },
+    {
+      "id": "flood-resources",
+      "author": "Community Team",
+      "region": "All Regions",
+      "created_at": "2025-06-15T14:30:00Z",
+      "title": "Flood Safety Resources",
+      "description": "Know how to respond to flash floods, evacuate safely, and recover after water damage.",
+      "verified": true,
+      "resourceLinks": [
+        {
+          "label": "Ready.gov Floods",
+          "url": "https://www.ready.gov/floods"
+        },
+        {
+          "label": "FEMA Disaster Assistance",
+          "url": "https://www.disasterassistance.gov/"
+        }
+      ],
+      "community": "Floods"
+    },
+    {
+      "id": "tornado-resources",
+      "author": "Community Team",
+      "region": "All Regions",
+      "created_at": "2025-06-14T12:00:00Z",
+      "title": "Tornado Resources",
+      "description": "Get tornado safety info, shelter apps, and storm recovery help.",
+      "verified": true,
+      "resourceLinks": [
+        {
+          "label": "NOAA Tornado Basics",
+          "url": "https://www.weather.gov/safety/tornado"
+        },
+        {
+          "label": "FEMA Shelter Info",
+          "url": "https://www.fema.gov/emergency-managers/practitioners/shelter"
+        }
+      ],
+      "community": "Hurricanes & Tornadoes"
+    },
+    {
+      "id": "toxicspill-resources",
+      "author": "Community Team",
+      "region": "All Regions",
+      "created_at": "2025-06-13T09:00:00Z",
+      "title": "Toxic Spills & Hazmat Resources",
+      "description": "Learn how to stay safe during chemical spills or hazardous exposure incidents.",
+      "verified": true,
+      "resourceLinks": [
+        {
+          "label": "EPA Emergency Response",
+          "url": "https://www.epa.gov/emergency-response"
+        },
+        {
+          "label": "CDC Chemical Emergencies",
+          "url": "https://emergency.cdc.gov/chemical/"
+        }
+      ],
+      "community": "Toxic Spills and Hazardous Materials"
+    },
+    {
+      "id": "urbanfire-resources",
+      "author": "Community Team",
+      "region": "All Regions",
+      "created_at": "2025-06-12T16:00:00Z",
+      "title": "Urban Fire & Building Emergency Resources",
+      "description": "Guidance for evacuating, reporting, and recovering from urban fires or structural collapse.",
+      "verified": true,
+      "resourceLinks": [
+        {
+          "label": "NFPA Fire Safety Tips",
+          "url": "https://www.nfpa.org/Public-Education/Staying-safe/Safety-equipment/Smoke-alarms"
+        },
+        {
+          "label": "OSHA Emergency Evacuation",
+          "url": "https://www.osha.gov/emergency-preparedness"
+        }
+      ],
+      "community": "Urban Fires and Building Emergencies"
+    },
+    {
+      "id": "general-resources",
+      "author": "Community Team",
+      "region": "All Regions",
+      "created_at": "2025-06-11T11:00:00Z",
+      "title": "General Emergency Resources",
+      "description": "Links to national and local services for food, shelter, counseling, and disaster aid.",
+      "verified": true,
+      "resourceLinks": [
+        {
+          "label": "211.org Local Help Finder",
+          "url": "https://www.211.org/"
+        },
+        {
+          "label": "Disaster Distress Helpline",
+          "url": "https://www.samhsa.gov/find-help/disaster-distress-helpline"
+        },
+        {
+          "label": "FEMA Disaster Aid",
+          "url": "https://www.disasterassistance.gov/"
+        }
+      ],
+      "community": "General"
+    }
+  ]
+  
